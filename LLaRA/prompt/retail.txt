@@ -1,0 +1,3 @@
+This customer has purchased [HistoryHere] in the past. [TodayHere] the customer has purchased [TodaySeqHere]. Please predict the next one product this customer will purchase. The answer is
+This customer previously bought [HistoryHere]. [TodayHere] the customer has purchased [TodaySeqHere]. Recommend the next one product this customer is most likely to purchase. The recommended product is
+The purchase history of this customer is [HistoryHere]. [TodayHere] the customer has purchased [TodaySeqHere]. Recommend the single product this customer is most likely to buy next at a retail store. The recommendation is
